@@ -1,7 +1,9 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=wave&color=c9a84c&height=200&section=header&text=Abdul%20Majid&fontSize=60&fontColor=0d0d18&fontAlignY=38&desc=Library%20Information%20Scientist%20in%20the%20Making&descAlignY=58&descSize=18&descColor=0d0d18)
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c9a84c&height=200&section=header&text=Abdul%20Majid&fontSize=60&fontColor=0d0d18&fontAlignY=38&desc=Library%20%26%20Information%20Scientist%20in%20the%20Making&descAlignY=58&descSize=18&descColor=0d0d18" />
+<div align="center">
+<!-- HEADER BANNER
+<img width="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&amp;color=c9a84c&amp;height=200&amp;section=header&amp;text=Abdul%20Majid&amp;fontSize=60&amp;fontColor=0d0d18&amp;fontAlignY=38&amp;desc=Library%20%26%20Information%20Scientist%20in%20the%20Making&amp;descAlignY=58&amp;descSize=18&amp;descColor=0d0d18" /> -->
 
 <br/>
 
